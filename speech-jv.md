@@ -1,6 +1,6 @@
 ## Ular-ular Temanten
 
-Wonten ing sak lebetipun `repository`-ning urip, branches kekalih puniko sampun kelakon `merged`.
+Wonten ing sak lebetipun `repository`-ning urip, `branches` kekalih puniko sampun kelakon `merged`.
 
 Kadangkolo kekalihipun badhe anemahi `conflict`, mboten perlu bingung, kantun dipun waos `source`-ipun, lajeng pados margi kagem ndandosi.
 
