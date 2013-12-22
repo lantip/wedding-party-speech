@@ -12,5 +12,3 @@ Hambok bilih wonten saktunggaling wekdal anemahi masalah, sampun ngantos kesupen
 Hamenahi babagan gegancanganipun urip, pramilo langkung trapsilo hanetepi `milestones`, "badhe mekaten wonten ing titi wanci puniko, dados mekaten ing wekdal sak lajengipun". Inggih saestunipun, hanggadhahi `milestones` puniko handayani sak setunggaling jalma lan handandosaken tiyang saget gancar lampahipun lir ing sambikala.
 
 Kedah dipun pemut ugi, ndilalah kersanipun gusti kok nyumerepi pasangan sanes, lajeng kabatos "duh.. endahe dadi deweke", saestu kasuwun enggal-enggal `cherry-pick` sak cepetipun lan kanthi `aggressive`.
-
-> **NOTE:** Javanese version
