@@ -2,13 +2,12 @@ Pada `repository` kehidupan, dua `branches` kini `merged`.
 
 Kadang harus ada `conflicts`. tapi janganlah panik. bacalah `source` dan temukan jalan keluar darinya.
 
-Suami jangan pernah sekekali kali lari 'git blame'.
+Suami jangan pernah sekali-kali lari dan 'git blame'.
 
 Dan jika istri meminta `pull requests`, `merge` lah secepatnya.
 
-If there's ever any problems, don't hesitate to open an issue, be open and deal with them; it is the most important aspect of all in this long story of life.
-Jika didalamnya terdapat masalah, janganlah ragu-ragu untuk mengajukan `issue`
+Jika ada masalah apapaun, jangan ragu untuk membuka `issue, terbuka dan berurusan dengan mereka; itu adalah aspek yang paling penting dari semua cerita panjang ini hidup.
 
-In terms of the design of life, it would be good to set up milestones. "Do this at this time, be this when we reach certain age." Having milestones enriches people and keeps people moving forward.
+Dalam hal desain kehidupan, itu akan baik untuk mengatur `milestones`. "Lakukan ini sekarang, dan akan berhasil ketika waktunya" Memiliki `milestones` akan memperkaya diri dan membuat tetap maju kedepan.
 
-When looking at other couples, if ever thinking "Ahh.. would be nice to be like them," please cherry-pick quickly and aggressively.
+Ketika melihat pasangan lain, jika pernah berpikir "Ahh .. akan menyenangkan untuk menjadi seperti mereka," harap cepat `cherry-pick` dan bersikap `aggressive`.
